@@ -31,3 +31,8 @@ out/
 .LSOverride
 Icon
 ._*
+.DS_Store
+**/.DS_Store
+**/target/
+**/.idea/
+**/*.iml
